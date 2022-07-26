@@ -1,0 +1,15 @@
+                                                   Module-2
+4) How memory is managed in python?
+
+Ans. In Python, memory is managed by the python manager which determines where to put application data in the memory.When the
+     data is no longer use, it can be deleted by the python memory manager.
+
+5) What is the purpose of continue statement in python?
+
+Ans. The continue keyword is used to end the current iteration in a for loop, and continues to the next iteration.
+
+14) What are negative indexes and why are they used?
+
+Ans. Python supports indexing from the end that is negative indexing. This means the last value of a sequence has an index of
+     -1, the second last -2, and so on. We can use negative indexing as your advantage when you want to pick values from the 
+     end of an iterable.
